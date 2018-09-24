@@ -1,2 +1,2 @@
 # portofilo
-this samole reponsev protofilo 
+this sample reponsev protofilo 
